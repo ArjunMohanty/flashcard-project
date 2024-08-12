@@ -1,7 +1,6 @@
-import { RiMenuLine, RiHome4Line, RiBook2Line } from "react-icons/ri";
-import { GiMagnifyingGlass, GiStack } from "react-icons/gi";
-import { ImLab } from "react-icons/im";
-import { HiPhotograph } from "react-icons/hi";
+import { RiMenuLine, RiHome4Line } from "react-icons/ri";
+import { GiMagnifyingGlass } from "react-icons/gi";
+
 
 export default function IconBar({ setQuizMode, setAddQuestionsView }) {
   return (
